@@ -28,7 +28,6 @@ Dataset Type: Customer behavior / sales dataset
 
 Format: CSV
 
-Size: (Add number of rows & columns here)
 
 Key Features:
 
